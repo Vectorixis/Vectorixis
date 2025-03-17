@@ -9,3 +9,4 @@ window.setWindowTitle('Test App')
 
 window.show()
 
+app.exec()
